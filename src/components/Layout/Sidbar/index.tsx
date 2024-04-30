@@ -35,7 +35,7 @@ const menuItems = [
     icon: <MdOutlineAddTask />,
   },
   {
-    label: 'Dashboard',
+    label: 'Transações',
     url: '/transacoes',
     icon: <MdOutlineListAlt />,
   },
